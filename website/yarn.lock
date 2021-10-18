@@ -7386,10 +7386,10 @@ react-static-plugin-source-filesystem@^7.5.1:
     chokidar "^3.0.2"
     glob "^7.1.4"
 
-react-static-plugin-stylus@^7.3.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/react-static-plugin-stylus/-/react-static-plugin-stylus-7.3.0.tgz#a45756b6c429c07da44a25a350d514049411d143"
-  integrity sha512-3O9dA+egpzvIUfLw30nb67QXuSkHaZzakHQNG1n14WMREipLjp5Rkctxze9obS6VBYAbWD8/7m/vWqCMfTYE5Q==
+react-static-plugin-stylus@^7.6.2:
+  version "7.6.2"
+  resolved "https://registry.yarnpkg.com/react-static-plugin-stylus/-/react-static-plugin-stylus-7.6.2.tgz#04c6751c8d447da9ca5b283b6c7e2343d2313237"
+  integrity sha512-ZvaDPz09rcWcvQAipgl4Ym5FEOGzk8jUMaUQLfmuuwhMqYGO25rtJY/E4HTDZufzdJ/mxsKXj/oLqfb21gYImA==
   dependencies:
     autoprefixer "^9.7.4"
     css-loader "^3.2.0"
